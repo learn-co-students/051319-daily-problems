@@ -9,6 +9,10 @@ They will discuss their solution. Whoever presents their solution each day gets 
 pick the next problem for everyone to work on. Although only one person will present
 each day everyone should still work on each problem.
 
+You can use whatever language you want to solve any problem. In fact, we
+encourage you to solve all the problems in both languages! This will really
+hone your understanding.
+
 Fork this repo and code your solutions there. Do not make pull requests back to
 this repo. You can code your solutions in your own forked repo and never pull
 from this repo again. Staff is able to view your forked repos and your solutions
@@ -25,6 +29,7 @@ Have fun!
 Looking for a problem? Try looking for something challenging on these websites,
 or find one anywhere else, or make up your own!
 
-<https://www.codewars.com>
-<https://leetcode.com/>
-<https://projecteuler.net/>
+* <https://www.hackerrank.com/>
+* <https://www.codewars.com>
+* <https://leetcode.com/>
+* <https://projecteuler.net/>
